@@ -1,0 +1,13 @@
+{
+    "name": "devops-project",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/app/main.js",
+    "scripts": {
+      "start": "node src/app/main.js",
+      "test": "echo \"No tests specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+   
